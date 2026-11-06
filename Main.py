@@ -1,4 +1,7 @@
 import Menu
+import Armazenamento
+
+inventario = Armazenamento.carregar_inventario()
 
 while True:
 
@@ -7,3 +10,6 @@ while True:
     if Menu.user_menu_input() == False:
         print("Encerrando programa!")
         break
+
+
+print(inventario)

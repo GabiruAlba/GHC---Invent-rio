@@ -1,0 +1,4 @@
+categoria,codigo,lote,tipo,quantidade
+luvas,1001,A01,entrada,100
+luvas,1001,A01,saida,20
+seringas,2001,B01,entrada,50

@@ -6,9 +6,10 @@ def menu_vis():
     print("Selecione uma opção:")
     print("1) Entrada")
     print("2) Saída")
-    print("3) Visualizar")
-    print("4) Alterar")
-    print("5) Sair")
+    print("3) Visualizar inventário")
+    print("4) Alterar registro")
+    print("5) Visualizar histórico")
+    print("6) Sair")    
     print("="*50)
     return True
 
@@ -20,14 +21,23 @@ def user_menu_input():
     match input_entry:
         case 1:
             print("Entrada")
+
         case 2:
             print("Saída")
+
         case 3:
             #Visualizar
             pass
+        
         case 4:
             #Alterar
             pass
+        
         case 5:
-            return False
+            #Histórico
+            pass
+        
+        case 6:
+            return False     
+           
     return True
