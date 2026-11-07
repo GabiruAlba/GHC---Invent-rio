@@ -1,0 +1,5 @@
+categoria,quantidade inicial,quantidade movimentada,quantidade final,codigo,lote,validade,movimento,observacao,responsavel
+HBC,200,200,400,00A0000,00000AA00,01;01;2026,entrada,,Valkyria R Souza
+CMM,100,500,600,11B1111,11111BB11,02;02;2026,entrada,,Valkyria R Souza
+ABS,300,100,400,22C2222,22222CC22,03;03;2026,entrada,,Valkyria R Souza
+CHA,500,-100,400,33D3333,33333DD33,04;04;2026,saida,,Valkyria R Souza
